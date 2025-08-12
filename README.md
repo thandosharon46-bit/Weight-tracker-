@@ -12,3 +12,6 @@ A Python app that lets users log daily weights, calculates total change and aver
 - Python
 - matplotlib
 - datetime
+
+##Replict link
+Clck on the link below,it will direct you to my work on replict (Weight tracker app)-https://replit.com/@thandosharon46/Weight-tracker?v=1
